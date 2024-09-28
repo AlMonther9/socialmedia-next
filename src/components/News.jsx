@@ -1,9 +1,5 @@
-import React from 'react'
+import React from 'react';
 
 export default function News() {
-  return (
-    <div>
-      News
-    </div>
-  )
+  return <div className='p-3'>News</div>;
 }
